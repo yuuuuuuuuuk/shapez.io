@@ -277,17 +277,13 @@ dialogs:
             game files via Steam. <br><br> Error Message:"
     steamSsoError:
         title: Full Version Logout
-        desc: You have been logged out from the Full Browser Version since either your
-            network connection is unstable or you are playing on another
-            device.<br><br> Please make sure you don't have shapez open in any
-            other browser tab or another computer with the same Steam
-            account.<br><br> You can login again in the main menu.
+        desc: ネットワーク接続が不安定であるか、別のデバイスでプレイしているため、フルブラウザ版からログアウトされました。
+他のブラウザタブや同じSteamアカウントでShapezを開いていないことをご確認ください。
+メインメニューから再度ログインできます。
     steamSsoNoOwnership:
-        title: Full Edition not owned
-        desc: In order to play the Full Edition in your Browser, you need to own both
-            the base game and the Puzzle DLC on your Steam account.<br><br>
-            Please make sure you own both, signed in with the correct Steam
-            account and then try again.
+        title: 完全版を所有していません
+        desc: ブラウザで完全版をプレイするには、Steamアカウントで基本ゲームとパズルDLCの両方を所有している必要があります。
+両方を所有していることを確認し、正しいSteamアカウントでサインインしてから再度お試しください。
 ingame:
     keybindingsOverlay:
         moveMap: マップ移動
